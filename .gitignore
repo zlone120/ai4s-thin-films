@@ -1,0 +1,6 @@
+*.npz
+*.pth
+__pycache__/
+*.docx
+*.pdf
+.DS_Store
